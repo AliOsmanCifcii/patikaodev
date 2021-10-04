@@ -1,0 +1,2 @@
+# patikaodev
+patıkaodev
